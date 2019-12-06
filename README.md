@@ -1,3 +1,3 @@
 # LanguageIdentifier
-TP2 de procesamiento de voz. Junto con Ezequiel Morcillo hicimos un identificador de idiomas entre alemán, inglés y español. Se utilizó una red convolucional sobre melspectrogramas de audios de 5 segundos, y se entrenó con una base de datos adaptada de voxforge. 
-Se llegó a una accuracy de 93% sobre el test set.
+Voice Processing Assignment 2. We coded a language identifier between 3 languages (german, english and spanish) using a convolutional neural network on the melspectrograms of 5 secs of audio. We trained the net with an adapted dataset from voxforge, and it got to 93% test accuracy.
+Done with Ezequiel Morcillo
